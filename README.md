@@ -18,7 +18,9 @@ Plotus: https://discord.gg/N4Ze76Ukrk (https://discord.gg/plotus)
  </ol>
 
 ## Görseller
-(linklere gönül rahatlığı ile tıklayabilirsiniz.)
+(linklere gönül rahatlığı ile tıklayabilirsiniz. ayrıca daha fazla resme zaten klasörden ulaşabilirsiniz. :>)
 <ol>
-<li>Bağlantı seç: https://frade.lifes-a-me.me/585GQiU5j.png<li>
+<li>Normal seçim: https://frade.lifes-a-me.me/585HBu_Jh.png</li>
+<li>Bağlantı seç: https://frade.lifes-a-me.me/585GQiU5j.png</li>
+<li>Arka planda çalışıyor: https://frade.lifes-a-me.me/585HT45h3.png</li>
 </ol>
