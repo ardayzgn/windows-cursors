@@ -1,5 +1,5 @@
 <h1 align="center">━━━━[ Frade Cursors ]━━━━</h1>
-Kendi kullandığım fare işaretçisi. MacOS'un işaretçisini Windows 10 hali. Nasıl kurulacağı aşağıdaki metinlerde yazıldı. Aldığınız herhangi bir hata da discord sunucumdan bana ulaşabilirsiniz. Eğer sevdiyseniz lütfen star atmayı unutmayın. :>
+Kendi kullandığım fare işaretçisi. MacOS'un işaretçisini Windows 10 hali. Nasıl kurulacağı aşağıdaki metinlerde yazıldı. Aldığınız herhangi bir hata da veya yapamadığınız bir nokta olursa discord sunucumdan bana ulaşabilirsiniz. Eğer sevdiyseniz lütfen star atmayı unutmayın. :>
 <br> <br>
 Plotus: https://discord.gg/N4Ze76Ukrk (https://discord.gg/plotus)
 
@@ -14,7 +14,7 @@ Plotus: https://discord.gg/N4Ze76Ukrk (https://discord.gg/plotus)
   <li>Fare özellikleri diye bir pencere açılacaktır. Açılan pencerede "İşaretçiler" seçeneğine tıklayın.</li>
   <li>"Düzen" adlı listeye tıklayıp "Frade Cursors" adlı seçeneği seçin.</li>
   <li>Seçtikten sonra uygulaya basıp tamama tıklayın.</li>
-  <li>🎉 Tebrikler, artık yeni ve harika bir işaretçiniz var. :></li>
+  <liTebrikler, artık yeni ve harika bir işaretçiniz var. :></li>
  </ol>
 
 
