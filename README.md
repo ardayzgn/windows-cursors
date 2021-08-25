@@ -15,5 +15,5 @@ Plotus: https://discord.gg/N4Ze76Ukrk (https://discord.gg/plotus)
   <li>`Düzen` adlı listeye tıklayıp `Frade Cursors` adlı seçeneği seçin.</li>
   <li> Seçtikten sonra uygulaya basıp tamama tıklayın.</li>
  </ol>
- 🎉 Tebrikler, artık yeni ve harika bir işaretçiniz var!!!
+  🎉 Tebrikler, artık yeni ve harika bir işaretçiniz var!!!
 
