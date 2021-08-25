@@ -17,4 +17,6 @@ Plotus: https://discord.gg/N4Ze76Ukrk (https://discord.gg/plotus)
   <liTebrikler, artık yeni ve harika bir işaretçiniz var. :></li>
  </ol>
 
+## Görseller
+
 
