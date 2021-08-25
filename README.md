@@ -19,4 +19,4 @@ Plotus: https://discord.gg/N4Ze76Ukrk (https://discord.gg/plotus)
 
 ## Görseller
 
-
+![https://frade.lifes-a-me.me/585GQiU5j]
