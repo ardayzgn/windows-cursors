@@ -1,5 +1,5 @@
 <h1 align="center">━━━━[ Frade Cursors ]━━━━</h1>
-Kendi kullandığım fare işaretçisi. MacOS'un işaretçisini Windows 10 hali. Nasıl kurulacağı aşağıdaki metinlerde yazıldı. Aldığınız herhangi bir hata da veya yapamadığınız bir nokta olursa discord sunucumdan bana ulaşabilirsiniz. Eğer sevdiyseniz lütfen star atmayı unutmayın. :>
+Kendi kullandığım fare işaretçisi. Aslında MacOS'un işaretçisini Windows 10 hali. Nasıl kurulacağı aşağıdaki metinlerde yazıldı. Aldığınız herhangi bir hata da veya yapamadığınız bir nokta olursa discord sunucumdan bana ulaşabilirsiniz. Eğer sevdiyseniz lütfen star atmayı unutmayın. :>
 <br> <br>
 Plotus: https://discord.gg/N4Ze76Ukrk (https://discord.gg/plotus)
 
