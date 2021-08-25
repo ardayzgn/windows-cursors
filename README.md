@@ -19,15 +19,15 @@ Plotus: https://discord.gg/N4Ze76Ukrk (https://discord.gg/plotus)
 
 ## FAQ
 Sıkça sorulan sorulara buradan ulaşabilirsin.
-<br>
+<br><br>
 **Q:** Bilgisarayıma herhangi bir şey olur mu?
 <br>
 **A:** İçerisinde kötü bir yazılım yoktur. Sadece fare işaretçisi. Yani **vermez**.
-<br>
+<br><br>
 **Q:** Neden paylaştın?
 <br>
 **A:** Öncelikle Windows'un kendi işaretçilerinden daha estetik gözüküyor. (Aslında bu kadar)
-<br>
+<br><br>
 **Q:** Bir hata aldım, takıldığım bir nokta oldu; ne yapmam lazım?
 <br>
 **A:** Discord sunucumdan bana ulaşabilirsin.
