@@ -18,5 +18,7 @@ Plotus: https://discord.gg/N4Ze76Ukrk (https://discord.gg/plotus)
  </ol>
 
 ## Görseller
-
-![](https://frade.lifes-a-me.me/585GQiU5j.png)
+(linklere gönül rahatlığı ile tıklayabilirsiniz.)
+<ol>
+<li>Bağlantı seç: https://frade.lifes-a-me.me/585GQiU5j.png<li>
+</ol>
