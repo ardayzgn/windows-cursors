@@ -17,6 +17,20 @@ Plotus: https://discord.gg/N4Ze76Ukrk (https://discord.gg/plotus)
   <liTebrikler, artık yeni ve harika bir işaretçiniz var. :></li>
  </ol>
 
+##FAQ
+Sıkça sorulan sorulara buradan ulaşabilirsin.
+<br>
+**Q:** Bilgisarayıma herhangi bir şey olur mu?
+**A:** İçerisinde kötü bir yazılım yoktur. Sadece fare işaretçisi. Yani **vermez**.
+<br>
+**Q:** Neden paylaştın?
+**A:** Öncelikle Windows'un kendi işaretçilerinden daha estetik gözüküyor. (Aslında bu kadar)
+<br>
+**Q:** Bir hata aldım, takıldığım bir nokta oldu; ne yapmam lazım?
+**A:** Discord sunucumdan bana ulaşabilirsin.
+Plotus: https://discord.gg/N4Ze76Ukrk (https://discord.gg/plotus)
+
+
 ## Görseller
 (linklere gönül rahatlığı ile tıklayabilirsiniz. ayrıca daha fazla resme zaten klasörden ulaşabilirsiniz. :>)
 <ol>
