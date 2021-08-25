@@ -30,9 +30,7 @@ Sıkça sorulan sorulara buradan ulaşabilirsin.
 <br><br>
 **Q:** Bir hata aldım, takıldığım bir nokta oldu; ne yapmam lazım?
 <br>
-**A:** Discord sunucumdan bana ulaşabilirsin.
-<br>
-Plotus: https://discord.gg/N4Ze76Ukrk (https://discord.gg/plotus)
+**A:** Discord sunucumdan bana ulaşabilirsin.Plotus: https://discord.gg/N4Ze76Ukrk (https://discord.gg/plotus)
 
 
 ## Görseller
