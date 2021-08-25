@@ -14,6 +14,7 @@ Plotus: https://discord.gg/N4Ze76Ukrk (https://discord.gg/plotus)
   <li>Fare özellikleri diye bir pencere açılacaktır. Açılan pencerede `İşaretçiler` seçeneğine tıklayın.</li>
   <li>`Düzen` adlı listeye tıklayıp `Frade Cursors` adlı seçeneği seçin.</li>
   <li> Seçtikten sonra uygulaya basıp tamama tıklayın.</li>
-  Tebrikler, artık yeni ve harika bir işaretçiniz var!!!
  </ol>
+ <br>
+ Tebrikler, artık yeni ve harika bir işaretçiniz var. :>
 
