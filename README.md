@@ -16,5 +16,6 @@ Plotus: https://discord.gg/N4Ze76Ukrk (https://discord.gg/plotus)
   <li>Seçtikten sonra uygulaya basıp tamama tıklayın.</li>
  </ol>
  <br>
- Tebrikler, artık yeni ve harika bir işaretçiniz var. :>
+ 
+ 🎉 Tebrikler, artık yeni ve harika bir işaretçiniz var. :>
 
