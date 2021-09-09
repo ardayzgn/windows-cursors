@@ -1,8 +1,7 @@
   <h1 align="center">Windows Cursors</h1>
 Kendi kullandığım fare işaretçisi. Aslında MacOS'un işaretçisini Windows 10 hali. Nasıl kurulacağı aşağıdaki metinlerde yazıldı. Aldığınız herhangi bir hata da veya yapamadığınız bir nokta olursa discord sunucumdan bana ulaşabilirsiniz. Eğer sevdiyseniz lütfen star atmayı unutmayın. :>
 <br> <br>
-Plotus: https://discord.gg/N4Ze76Ukrk (https://discord.gg/plotus)
-
+(https://discord.gg/8ZTT5ec5vw)
 
 ## Nasıl kurarım?
 <ol>
@@ -30,13 +29,4 @@ Sıkça sorulan sorulara buradan ulaşabilirsin.
 <br><br>
 **Q:** Bir hata aldım, takıldığım bir nokta oldu; ne yapmam lazım?
 <br>
-**A:** Discord sunucumdan bana ulaşabilirsin.Plotus: https://discord.gg/N4Ze76Ukrk (https://discord.gg/plotus)
-
-
-## Görseller
-(linklere gönül rahatlığı ile tıklayabilirsiniz. ayrıca daha fazla resme zaten klasörden ulaşabilirsiniz. :>)
-<ol>
-<li>Normal seçim: https://frade.lifes-a-me.me/585HBu_Jh.png</li>
-<li>Bağlantı seç: https://frade.lifes-a-me.me/585GQiU5j.png</li>
-<li>Arka planda çalışıyor: https://frade.lifes-a-me.me/585HT45h3.png</li>
-</ol>
+**A:** Discord sunucumdan bana ulaşabilirsin. (https://discord.gg/8ZTT5ec5vw)
