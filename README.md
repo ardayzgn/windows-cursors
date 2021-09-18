@@ -2,7 +2,6 @@
 Kendi kullandığım fare işaretçisi. Aslında MacOS'un işaretçisini Windows 10 hali. Nasıl kurulacağı aşağıdaki metinlerde yazıldı. Aldığınız herhangi bir hata da veya yapamadığınız bir nokta olursa Discord sunucumdan bana ulaşabilirsiniz. 
 <br> <br>
 • Eğer sevdiyseniz lütfen star atmayı unutmayın. :>
-<br> <br>
 
 ## Nasıl kurarım?
 <ol>
