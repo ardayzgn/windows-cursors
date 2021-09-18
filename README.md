@@ -1,5 +1,7 @@
   <h1 align="center">Windows Cursors</h1>
-Kendi kullandığım fare işaretçisi. Aslında MacOS'un işaretçisini Windows 10 hali. Nasıl kurulacağı aşağıdaki metinlerde yazıldı. Aldığınız herhangi bir hata da veya yapamadığınız bir nokta olursa discord sunucumdan bana ulaşabilirsiniz. Eğer sevdiyseniz lütfen star atmayı unutmayın. :>
+Kendi kullandığım fare işaretçisi. Aslında MacOS'un işaretçisini Windows 10 hali. Nasıl kurulacağı aşağıdaki metinlerde yazıldı. Aldığınız herhangi bir hata da veya yapamadığınız bir nokta olursa Discord sunucumdan bana ulaşabilirsiniz. 
+<br>
+Eğer sevdiyseniz lütfen star atmayı unutmayın. :>
 <br> <br>
 (https://discord.gg/8ZTT5ec5vw)
 
