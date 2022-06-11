@@ -16,17 +16,17 @@ Kendi kullandığım fare işaretçisi. Aslında MacOS'un işaretçisini Windows
   <liTebrikler, artık yeni ve harika bir işaretçiniz var. :></li>
  </ol>
 
-## FAQ
+## SSS
 Sıkça sorulan sorulara buradan ulaşabilirsin.
 <br><br>
-**Q:** Bilgisarayıma herhangi bir şey olur mu?
+**B:** Bilgisarayıma herhangi bir şey olur mu?
 <br>
 **A:** İçerisinde kötü bir yazılım yoktur. Sadece fare işaretçisi. Yani **vermez**.
 <br><br>
-**Q:** Neden paylaştın?
+**A:** Neden paylaştın?
 <br>
-**A:** Öncelikle Windows'un kendi işaretçilerinden daha estetik gözüküyor. (Aslında bu kadar)
+**B:** Öncelikle Windows'un kendi işaretçilerinden daha estetik gözüküyor. (Aslında bu kadar)
 <br><br>
-**Q:** Bir hata aldım, takıldığım bir nokta oldu; ne yapmam lazım?
+**A:** Bir hata aldım, takıldığım bir nokta oldu; ne yapmam lazım?
 <br>
-**A:** Discord sunucumdan bana ulaşabilirsin. (https://discord.gg/8ZTT5ec5vw)
+**B:** Discord sunucumdan bana ulaşabilirsin. (https://discord.gg/D5uHt85vgF)
